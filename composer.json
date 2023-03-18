@@ -1,5 +1,5 @@
 {
-    "name": "nano/nano",
+    "name": "reactmvc/http-client",
     "description": "An HTTP client library for PHP",
     "type": "library",
     "version": "1.0.0",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "HTTPClient\\": "src/"
+            "ReactMVC\\": "src/"
         }
     }
 }

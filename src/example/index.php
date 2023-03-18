@@ -1,7 +1,7 @@
 <?php
 
 require_once 'vendor/autoload.php';
-use HTTPClient\Nano;
+use ReactMVC\Nano;
 
 // ساخت یک شیء از کلاس HTTPClient با آدرس پایه سرور "http://example.com"
 $client = new Nano("http://example.com");

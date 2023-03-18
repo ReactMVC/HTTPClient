@@ -3,7 +3,7 @@
 Nano HTTPClient
 */
 
-namespace HTTPClient;
+namespace ReactMVC;
 
 class Nano
 {
