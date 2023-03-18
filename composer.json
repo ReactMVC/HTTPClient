@@ -1,5 +1,5 @@
 {
-    "name": "http-client/nano",
+    "name": "nano/nano",
     "description": "An HTTP client library for PHP",
     "type": "library",
     "version": "1.0.0",
